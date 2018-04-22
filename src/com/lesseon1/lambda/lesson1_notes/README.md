@@ -5,12 +5,12 @@
     <ul>
       <li>
         <p>
-          <b><code>BiFunction<T, U, R></code></b> is an interface representing function with two arguments of types T and U. It returns value of type R.
+          <b>BiFunction<T, U, R></b> is an interface representing function with two arguments of types T and U. It returns value of type R.
         </p>
       </li>
       <li>
         <p>
-          <b><code>Function<T, R></code></b> s also a special interface but it has only one argument of type T and returns value of type R.
+          <b>Function<T, R></b> s also a special interface but it has only one argument of type T and returns value of type R.
         </p>
       </li>
     </ul>
