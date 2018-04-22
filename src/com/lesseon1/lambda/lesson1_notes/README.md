@@ -58,7 +58,13 @@
     </p>
     <p>The lambda expression captured the final variable <b>hello</b>.</p>
     <p>The result of this code.</p>
-    <p>Hello, John</p>
-    <p>Hello, Anastasia</p>
+    <p>
+      <code>
+        Hello, John
+        </br>
+        Hello, Anastasia
+      </code>
+    </p>
+    <p></p>
   </ol>
 </ul>
